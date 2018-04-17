@@ -1,0 +1,58 @@
+Statistics:
+1.	Descriptive
+2.	Inferential	
+Descriptive Statistics: Descriptive statistics provide a concise summary of data. You can summarize data numerically or graphically. For example, the manager of a fast food restaurant tracks the wait times for customers during the lunch hour for a week. Then, the manager summarizes the data.
+1.	measures of central tendency (mean, median and mode),
+2.	measures of variability(standard deviation or variance),
+3.	spread. 
+4.	minimum and maximum variables, Range quartiles 
+5.	kurtosis and skewness
+Inferential statistics allows you to make predictions (“inferences”) from that data. With inferential statistics, you take data from samples and make generalizations about a population. 
+There are two main areas of inferential statistics:
+1.	Estimating parameters. This means taking a statistic from your sample data (for example the sample mean) and using it to say something about a population parameter (i.e. the population mean).
+2.	Hypothesis tests. This is where you can use sample data to answer research questions. For example, you might be interested in knowing if a new cancer drug is effective. Or if breakfast helps children perform better in schools.
+indexes for inferential statistics articles are:
+•	Binomial Theorem
+•	Hypothesis Testing
+•	Normal Distributions
+•	T-Distributions
+•	Central Limit Theorem
+•	Confidence Intervals
+•	Regression Analysis / Linear Regression
+•	Comparison of Means.
+
+
+
+Tools:
+
+
+Data Exploration/Cleaning/Preparation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://www.bwgriffin.com/gsu/courses/edur7130/content/descriptive_and_inferential_stat.htm
+
+
+https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+
+https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+
+https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+
+https://www.simplilearn.com/10-algorithms-machine-learning-engineers-need-to-know-article
+
+https://www.statisticssolutions.com/assumptions-of-linear-regression/
+
+
+	

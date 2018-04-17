@@ -1,5 +1,18 @@
 Statistics:
-1.	Descriptive
+1.	Descriptive Statistics
+
+Descriptive statistics is the right solution for presenting an overall picture about a set of data. These
+methodologies represent summaries, which give a fair picture about a given population. The business
+insights earned from the analysis of data will be in the form of tables and charts. Descriptive statistics output
+might help draw useful inferences, but this output in itself is not an inference.
+Here is a sales example. Descriptive statistics, applied on one year’s worth of sales data, might include
+average sales in the last 12 months, maximum and minimum sales of the past 12 months, and so on. The
+business expert can infer on the performance on his or her business, based on this analysis.
+The following are the important measures or outcomes of descriptive statistics:
+
+	• Measures of central tendency: Mean, median, mode, and midrange
+	• Measures of variation: Range, variance, standard deviation, z-scores
+
 2.	Inferential	
 Descriptive Statistics: Descriptive statistics provide a concise summary of data. You can summarize data numerically or graphically. For example, the manager of a fast food restaurant tracks the wait times for customers during the lunch hour for a week. Then, the manager summarizes the data.
 1.	measures of central tendency (mean, median and mode),
